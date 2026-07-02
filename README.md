@@ -6,7 +6,7 @@ Electronics Engineering student building AI-powered, cloud-deployed software. Fo
 - 🚀 **Shipped:** [CityCare Climate AI](https://climaterisk-ai-502583370638.asia-south1.run.app/climate-assistant) — an AI platform predicting Urban Heat Island risk using satellite imagery + XGBoost, deployed on Google Cloud Run
 - 🌱 **Learning:** Advanced backend systems, cloud architecture
 - ⚙️ **Also into:** Industrial automation (PLC programming, Ladder Logic)
-- 📫 **Reach me:** [LinkedIn](your-linkedin-url) | adityadeshmukha76@gmail.com
+- 📫 **Reach me:** [LinkedIn](www.linkedin.com/in/aditya-deshmukh-7036822b9) | adityadeshmukha76@gmail.com
 
 **Languages & Tools:**
 
